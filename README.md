@@ -1,5 +1,7 @@
 # One-time Password Plugin for Flow Launcher
 
+![GitHub Release](https://img.shields.io/github/v/release/GoodbyeNJN/Flow.Launcher.Plugin.OneTimePassword?label=version) ![GitHub Downloads](https://img.shields.io/github/downloads/GoodbyeNJN/Flow.Launcher.Plugin.OneTimePassword/total)
+
 [[中文说明](./README.zh-cn.md)]
 
 ![Main interface](./assets/screenshot-1.png)

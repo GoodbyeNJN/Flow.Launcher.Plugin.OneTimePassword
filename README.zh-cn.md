@@ -1,5 +1,7 @@
 # Flow Launcher 动态密码插件
 
+![GitHub Release](https://img.shields.io/github/v/release/GoodbyeNJN/Flow.Launcher.Plugin.OneTimePassword?label=version) ![GitHub Downloads](https://img.shields.io/github/downloads/GoodbyeNJN/Flow.Launcher.Plugin.OneTimePassword/total)
+
 ![主界面](./assets/screenshot-1.png)
 
 这是一个 [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) 插件，用于管理和生成基于时间的动态密码（TOTP）。
